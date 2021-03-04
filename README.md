@@ -2,12 +2,12 @@
  
 ## ROADMAP
 
-## TODO
+### TODO
 - [ ] Add Insertion Sort
 - [ ] Add Bubble Sort
 - [ ] Add Merge Sort
 - [ ] Add Other sort algoritms
 
-## DONE
+### DONE
 - [x] Stopwatch class
 - [x] Selection Sort
