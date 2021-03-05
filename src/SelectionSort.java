@@ -6,7 +6,7 @@ public class SelectionSort extends SortingAlgorithms
         }
     }
 
-    public static int findIndexOfMin(int[] arr, int start){
+    private static int findIndexOfMin(int[] arr, int start){
         int indexOfMin = start;
         for(int j = start+1; j< arr.length; j++) {
             if(arr[j] < arr[indexOfMin])
