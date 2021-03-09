@@ -3,4 +3,6 @@ public enum SortType {
     INSERTION,
     MERGE,
     BUBBLE,
+    BOGO,
+    BETTER_SELECTION
 }
